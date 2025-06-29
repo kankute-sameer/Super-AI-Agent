@@ -6,6 +6,19 @@ A powerful autonomous agent framework capable of breaking down complex tasks int
 
 Super AI Agent is an advanced autonomous agent system built on top of OpenAI's Agent framework. It excels at handling multi-step, complex tasks by implementing a structured workflow that includes strategic planning, iterative execution, and comprehensive documentation.
 
+## 🎥 Demo
+
+See Super AI Agent in action! Watch how it autonomously handles complex tasks:
+
+[![Super AI Agent Demo](https://img.shields.io/badge/🎬-Watch%20Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1g2op9ckLcfm4nhz1bp-Mm_q261rTdfJe/view?usp=drive_link)
+
+The demo showcases:
+- **Autonomous Task Planning**: How the agent breaks down complex requests into phases
+- **Real-time Research**: Web search integration for up-to-date information
+- **Document Generation**: Creation of comprehensive reports with citations
+- **Progress Tracking**: Visual representation of task completion
+- **File Management**: Automatic organization of research and output files
+
 ## ✨ Key Features
 
 - **Strategic Planning**: Automatically breaks down complex tasks into well-defined phases
