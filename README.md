@@ -10,7 +10,14 @@ Super AI Agent is an advanced autonomous agent system built on top of OpenAI's A
 
 See Super AI Agent in action! Watch how it autonomously handles complex tasks:
 
-[![Super AI Agent Demo](https://img.shields.io/badge/🎬-Watch%20Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1g2op9ckLcfm4nhz1bp-Mm_q261rTdfJe/view?usp=drive_link)
+<div align="center">
+  <video width="80%" controls>
+    <source src="https://drive.google.com/uc?export=download&id=1g2op9ckLcfm4nhz1bp-Mm_q261rTdfJe" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+*If the video doesn't load above, you can [watch it here](https://drive.google.com/file/d/1g2op9ckLcfm4nhz1bp-Mm_q261rTdfJe/view?usp=drive_link)*
 
 The demo showcases:
 - **Autonomous Task Planning**: How the agent breaks down complex requests into phases
